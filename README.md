@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariuszMackowski
+- 👋 Hi, I’m @MariuszMackowski, MSC 
 - 👀 I’m interested in Computer Vision - Machine learning, Data Science, Esports.
 - 🌱 I’m currently learning OpenCv, Scala&Spark.
 - 📫 How to reach me @mariusz.mackowski.it@gmail.com
